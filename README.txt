@@ -6,7 +6,7 @@
 
 == Authors ==
 
-* Contributors: gtonye
+* Contributors: Shawn Williams
 
 == Requirements ==
 

@@ -1,5 +1,5 @@
 /**
-* @author gtonye
+* @author safecaches
 * This script will build the tonicbloomsPins javascript object that will be use
 * inside any script in the page to share the pins
 **/
